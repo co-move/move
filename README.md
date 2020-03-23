@@ -1,6 +1,6 @@
 # Comove Demo
 
-This is demo that runs a simple Move script on Cosmos.
+This is a demo that runs a simple Libra Move script on Cosmos.
 
 The [sample script](./scripts/test.mv) is compiled from this source file.
 ```
